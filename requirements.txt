@@ -1,0 +1,5 @@
+Pillow>=10.0
+requests>=2.31
+PyYAML>=6.0
+# Optional, only needed for --remove-backgrounds:
+# rembg>=2.0

@@ -1,0 +1,13 @@
+{
+  "players": {
+    "Marcus Rashford": {"display_name": "RASHFORD"},
+    "Antony": {"display_name": "ANTONY BALONEY"},
+    "Mason Mount": {"display_name": "MOUNTED ON BENCH"},
+    "Jadon Sancho": {"display_name": "OFFSIDEMEN"},
+    "Kalvin Phillips": {"display_name": "KALVIN PHILLIPS"},
+    "Erling Haaland": {"display_name": "HAALANDU"}
+  },
+  "clubs": {
+    "Manchester United": "MANCURSE"
+  }
+}
